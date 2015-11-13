@@ -21,5 +21,6 @@ catch(Exception $e) {
 </head>
 <body>
 This page will access the database "test program"
+<h1>TEST PROGRAM</h1>
 </body>
 </html>
